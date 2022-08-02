@@ -1,0 +1,270 @@
+
+body{
+    background-color: rgb(231, 247, 241);
+    margin: 50px;
+}
+
+.narv {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.list {
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    
+}
+
+.listt {
+    display: flex;
+    justify-content: space-around;
+}
+
+li {
+    list-style-type: none;
+}
+
+.but {
+    padding: 15px;
+    border: none;
+    border-radius: 8px 8px 8px 0px;
+    background-color: rgb(224, 154, 121);
+    color: white;
+}
+
+.butt {
+        padding: 15px;
+        border: none;
+        border-radius: 8px 8px 8px 0px;
+        background-color: rgb(226, 129, 83);
+        color: rgb(27, 22, 22);
+        font-weight: bold;
+    
+}
+
+.listtt {
+    position: relative;
+    display: inline-block;
+}
+
+.listtt {
+    display: block;
+}
+
+.drpbut {
+    background-color: #f3f5f3;
+    color: rgb(54, 51, 51);
+     padding: 2px;
+     font-size: 16px;
+     border: none;
+    cursor: pointer;
+}
+
+.dpbt {
+    display: none;
+    position: absolute;
+    background-color: azure;
+    min-width: 90px;
+    box-shadow: 0px 8px 10px 0px;
+    z-index: 1;
+}
+
+.dpbt a:hover {background-color: antiquewhite;}
+
+
+
+.dpbt a {
+    color: black;
+  padding: 8px 8px;
+  text-decoration: none;
+  display: block;
+}
+
+.listtt:hover .dpbt {
+    display: block;
+}
+.txt {
+    letter-spacing: 2px;
+    width: 500px;
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.girl {
+    position: absolute;
+    right: 60px;
+    top: 160px;
+}
+
+.grl {
+    border-radius: 35px 80px 0px 150px;
+}
+
+.rec {
+    position: absolute;
+    left: 400px;
+    bottom: 160px;
+    box-shadow: 1px 0px 1px 1px;
+}
+
+.rev {
+    position: absolute;
+    left: 500px;
+    bottom: 30px;
+    box-shadow: 1px 0px 1px 1px;
+}
+
+.br {
+    border-radius: 0px 20px 20px 20px;
+}
+
+.trans {
+    position: absolute;
+    left: 420px;
+    top: 335px;
+    
+}
+
+.tran {
+    position: absolute;
+    left: 750px;
+    bottom: 45px;
+}
+
+.mar {
+    position: absolute;
+    left: 525px;
+    bottom: 170px;
+    width: 150px;
+}
+
+.alh {
+    position: absolute;
+    left: 525px;
+    bottom: 46px;
+}
+
+.trsct {
+    position: absolute;
+    right: 550px;
+    top: 670px;
+}
+
+.sign {
+    position: absolute;
+    left: 150px;
+    bottom: -300px;
+    width: 200px;
+    letter-spacing: 2px;
+    line-height: 25px;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.sup {
+    position: absolute;
+    left: 150px;
+    bottom: -520px;
+    width: 200px;
+    letter-spacing: 2px;
+    line-height: 25px;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.fst {
+    position: absolute;
+    right: 150px;
+    bottom: -385px;
+    width: 200px;
+    letter-spacing: 2px;
+    line-height: 25px;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.leg {
+    position: absolute;
+    right: 150px;
+    bottom: -650px;
+    width: 200px;
+    letter-spacing: 2px;
+    line-height: 25px;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.mon {
+    margin: 0px;
+    position: absolute;
+    bottom: -1250px;
+    left: 0px;
+}
+
+.fee {
+    position: relative;
+    bottom: -770px;
+    font-size: larger;
+    text-align: center;
+}
+
+.sen {
+    color: rgb(5, 3, 3);
+    font-size: 50px;
+}
+
+.mak {
+    color: rgb(5, 3, 3);
+    font-size: 20px;
+}
+
+.scn {
+    position: absolute;
+    left: 207px;
+    bottom: 130px;
+    color: rgb(11, 11, 247);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.foot {
+    position: absolute;
+    bottom: -1500px;
+}
+
+.com {
+    position: absolute;
+    bottom: -1480px;
+    left: 500px;
+    line-height: 40px;
+    color: blue;
+    width: 90px;
+}
+.com a {
+    text-decoration: none;
+}
+
+.comm {
+    position: absolute;
+    bottom: -1480px;
+    left: 700px;
+    line-height: 40px;
+    color: blue;
+    width: 80px;
+}
+.comm a {
+    text-decoration: none;
+}
+
+.commm {
+    position: absolute;
+    bottom: -1480px;
+    left: 900px;
+    line-height: 40px;
+    color: blue;
+    width: 80px;
+}
+.commm a {
+    text-decoration: none;
+}
