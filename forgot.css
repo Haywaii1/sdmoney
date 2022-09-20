@@ -1,0 +1,75 @@
+.bod-contt {
+    background-color: rgb(233, 241, 239);
+    height: 615px;
+    }
+.pass-cont {
+    
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 35%;
+    background-color: white;
+    text-align: center;
+    padding: 70px;
+    border-radius: 20px;
+}
+.log-acct {
+    font-size: 15px;
+}
+#email{
+    padding: 5px;
+    margin: 8px;
+    border-radius: 5px;
+    width: 250px;
+}
+
+.log-but{
+    
+    width: 250px;
+    border-radius: 5px;
+    padding: 7px;
+    background-color: orange;
+    color: white;
+    border: none;
+    
+}
+.log-but:hover {
+    background-color: blue;
+    color: black;
+    font-weight: 500;
+    text-decoration: none;
+}
+.for-pppd {
+    margin-top: 10px;
+    padding: 10px;
+}
+.nav-sign {
+    background-color: rgb(233, 241, 239);
+    
+}
+.log-sig {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.loggo {
+    height: 70px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.sign-up {
+    padding: 10px;
+    background-color: orange;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+.sign-up:hover{
+    background-color: blue;
+    color: black;
+}
+
+
+
+

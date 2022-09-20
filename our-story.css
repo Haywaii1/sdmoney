@@ -1,0 +1,79 @@
+.fes-cont {
+    color: white;
+    background: url(blue.webp);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 40px;
+}
+.people {
+    width: 400px;
+    margin-left: 550px;    
+}
+.bnki {
+    display: flex;
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+}
+.hassles {
+    width: 330px;
+    margin-bottom: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.drew {
+    width: 500px;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+.scd-cont{
+    background-image: url(family.jpg);
+    height: 550px;
+    margin-bottom: 100px;
+    
+    
+}
+.trust {
+    width: 600px;
+    color: rgb(63, 63, 156);
+    margin-left: 400px;
+    padding-top: 150px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.short {
+    width: 800px;
+    margin-left: 300px;
+    margin-top: 40px;
+}
+
+.thd-cont {
+    background-image: url(groupp.jpg);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 10px;
+}
+.leadership {
+    margin-top: 200px;
+    text-align: center;
+    color: rgb(63, 63, 156);
+    margin-bottom: 100px;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+.engineers {
+    width: 500px;
+    margin-left: 100px;
+    line-height: 40px;
+    font-size: 25px;
+    word-spacing: 7px;
+}
+.fifth-cont {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-right: 100px;
+    justify-content: space-around;
+}
